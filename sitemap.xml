@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/sto-je-specificno-za-trebinje-stanove.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/koja-su-obiljezja-zivota-u-trebinje-stanovima.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/kako-da-pronadete-savrsen-stan-u-trebinju-koji-ce-vas-oduseviti.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/kako-da-kupite-najbolji-stan-u-trebinju-i-ostvarite-svoj-san.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/kupovina-stanova-u-trebinju.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2024-09-15T11:34:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
